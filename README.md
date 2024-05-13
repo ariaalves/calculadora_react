@@ -12,7 +12,8 @@ A Calculadora foi criada em React e pode realizar as seguintes operações:
 Além disso, você pode reiniciar a calculadora para fazer uma nova operação clicando no botão **C**. 
 
 ## Visualização da Calculadora
-Inserir a imagem da calculadora aqui 
+![image](https://github.com/ariaalves/calculadora_react/assets/127545226/90e87991-92f3-4f24-8fc0-21197ddc869a)
+
 
 
 ## Instalação
